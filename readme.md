@@ -6,39 +6,35 @@ The purpose of this repository is to revisit the way how scientific industry wor
 
 ## Concept
 
-The purpose of my project is to revisit the way how scientific industry works. The general idea is that science should be widely open and accessible to anyone who is interested, giving the ability to contribute in an easy way.
-
-The concept is based on visualizing all the scientific knowledge that humanity obtained as a tremendous graph of building blocks, called "Knowledge Cubes". Each knowledge cube can reference other cubes, that were the foundation or the inspiration. All those cubes are floating in the knowledge space.
-
 ![concept](./concept.jpeg)
 
-Each cube represents a portion of an information that can be divided in 4 categories:
-
-- **idea** - a source of uncertainty, something to be verified;
-- **experiment** - a set of measurements performed to obtain a data allowing to conclude;
-- **conclusion** - a result of analysis of experiment results and other already existing conclusion;
-- **compilation** - an aggregation of ideas, experiments and conclusions into one single unifying description.
-
-In the same space, there are researchers, that interact with knowledge cubes. They can create, modify, review, comment, rate, and share them. They can also collaborate with other researchers, form communities, and exchange feedback.
-
-The project aims to support true openness, collaboration of communities, spontaneous contribution, and common ideas. All of that can lead to a better world and more satisfying and focused work of researchers.
+This project reimagines the scientific industry by making science open and accessible to all. The core idea involves visualizing humanity's scientific knowledge as a dynamic graph of "Knowledge Cubes." Each cube, representing an aspect of information, falls into categories like idea, experiment, conclusion, or compilation. Researchers interact with these cubes by creating, modifying, reviewing and collaborating. The project aims for true openness, community collaboration, spontaneous contributions, and shared ideas, fostering a more satisfying and focused research environment for a better world.
 
 ## Assumptions of the New Approach
 
-The new approach is based on the following assumptions:
+The assumptions outlined propose a conceptual framework for an advanced knowledge management system tailored for the research community. The key features and principles of this system include:
 
-- It should be compatible with the current ways of working and it should extend it instead of replacing, giving an alternative at the same time. For example, a compilation can be a scientific article, which is published in a traditional journal, but also linked to the knowledge cubes that support it.
-- It should place a researcher and a research at the center of the whole process. The researcher should have full control and ownership of their knowledge cubes, and the research should be transparent and reproducible.
-- It should support copyrights so it can not be undermined as knowledge cubes are parts of information not secured by current industry, only whole articles are. The researcher should be able to choose the license and the visibility of their knowledge cubes, and to protect their intellectual property.
-- It should allow to own parts of the space, with ability to decide who should be able to view or contribute within it. The researcher should be able to create private or public spaces, and to invite or exclude other researchers from accessing or modifying their knowledge cubes.
-- It should maintain the whole graph of knowledge cubes as an unit, minding that there are private parts of the space. The researcher should be able to see the connections and dependencies between their knowledge cubes and other knowledge cubes, and to navigate the graph easily and intuitively.
-- It should allow parts of the space to become public if allowed by the owner. The researcher should be able to share their knowledge cubes with the wider scientific community, and to receive feedback and recognition for their work.
-- It should be decentralized, as each research unit (single researcher, university faculty, a research team) can have complete ownership of cubes residing within their part of the space. The researcher should be able to store and manage their knowledge cubes locally or remotely, and to synchronize them with other research units.
-- It should allow authorized researchers to browse, review, comment, modify, reference knowledge cubes. The researcher should be able to interact with other knowledge cubes, and to contribute to the advancement of science.
-- It should allow to define a license for each cube, so that the owner decides on which terms it can be used or distributed. The researcher should be able to specify the conditions and the permissions for their knowledge cubes, and to respect the licenses of other knowledge cubes.
-- It should allow to version each knowledge cube as ideas can evolve, experiments can be retaken, conclusion can be alternated, compilation can be updated. The researcher should be able to track and compare the changes of their knowledge cubes, and to revert or merge them if needed.
-- It should propagate the information about the changes of all knowledge cubes, so that you can check the impact on your related work (for ex. referenced experiment or conclusions that you based on have changed). The researcher should be able to receive notifications and alerts about the updates of other knowledge cubes, and to adjust their work accordingly.
-- It should favor direct and real time communication to shorten communication paths. The researcher should be able to communicate with other researchers in a fast and efficient way, and to exchange ideas and opinions.
+1. **Compatibility and Extension:** The system should seamlessly integrate with existing research processes while offering additional functionalities. For example, traditional publications can coexist with linked knowledge cubes.
+
+2. **Researcher-Centric Approach:** Researchers should have complete control and ownership of their knowledge cubes. The research process should be transparent, reproducible, and place the researcher at the center of the entire system.
+
+3. **Copyright Support:** The system should respect copyright laws, allowing researchers to choose licenses for their knowledge cubes, protecting intellectual property, and offering flexibility in terms of visibility and accessibility.
+
+4. **Ownership and Privacy:** Researchers should be able to own and control parts of the space, deciding who can access or contribute to it. The system should support the creation of private and public spaces, enabling collaboration or exclusivity as desired.
+
+5. **Graph-Based Navigation:** The system should maintain a cohesive graph of interconnected knowledge cubes, allowing researchers to easily navigate and understand dependencies between their own work and that of others.
+
+6. **Public Sharing:** Researchers should have the option to make their knowledge cubes public, facilitating collaboration and feedback within the wider scientific community.
+
+7. **Decentralization:** Each research unit should have complete ownership of its knowledge cubes, allowing for local or remote storage and synchronization with other research units.
+
+8. **Authorization and Collaboration:** Authorized researchers should be able to browse, review, comment, modify, and reference knowledge cubes. The system should encourage collaboration and contribution to the advancement of science.
+
+9. **Versioning and Evolution:** The system should support versioning for knowledge cubes, acknowledging the evolving nature of research. Researchers should be able to track, compare, revert, or merge changes as needed.
+
+10. **Information Propagation:** Changes to knowledge cubes should be propagated across the system, enabling researchers to stay informed about updates relevant to their work and adjust accordingly.
+
+11. **Real-Time Communication:** The system should facilitate direct and real-time communication among researchers, promoting efficient exchange of ideas and opinions to shorten communication paths.
 
 ## License
 
